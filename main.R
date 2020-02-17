@@ -1,3 +1,9 @@
+library(data.table)
+library(ggplot2)
+library(fpp2)
+library(forecast)
+library(stats)
+library(tseries)
 library(readr)
 library(tidyr)
 
